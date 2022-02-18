@@ -1,0 +1,26 @@
+
+.projects-section {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  margin-top: 50px;
+  text-align: center;
+}
+
+.project img {
+  margin-top: 20px;
+  height: 250px;
+  width: 100%;
+}
+.project p {
+  line-height: 35px;
+  color: grey;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.carousel-item p {
+ color: black;
+}
+.carousel-item h1 {
+  color: black;
+ }
